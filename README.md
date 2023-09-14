@@ -3,6 +3,7 @@
 <div align="center">
 
 ![CI](https://github.com/upbound/provider-aws/workflows/CI/badge.svg) [![GitHub release](https://img.shields.io/github/release/upbound/provider-aws/all.svg?style=flat-square)](https://github.com/upbound/provider-aws/releases) [![Go Report Card](https://goreportcard.com/badge/github.com/upbound/provider-aws)](https://goreportcard.com/report/github.com/upbound/provider-aws) [![Slack](https://slack.crossplane.io/badge.svg)](https://crossplane.slack.com/archives/C01TRKD4623) [![Twitter Follow](https://img.shields.io/twitter/follow/upbound_io.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=upbound_io&user_id=788180534543339520)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fupbound%2Fprovider-aws.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fupbound%2Fprovider-aws?ref=badge_shield)
 
 </div>
 
@@ -47,3 +48,6 @@ you can do so via the following channels:
 ## Licensing
 
 Provider AWS is under [the Apache 2.0 license](LICENSE) with [notice](NOTICE).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fupbound%2Fprovider-aws.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fupbound%2Fprovider-aws?ref=badge_large)
